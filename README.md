@@ -1,2 +1,0 @@
-# Cognitium
-GDSC project
